@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 bla sagt wille
+=======
+nee nee Andrea Uschi 
+
+
+
+wertert
+>>>>>>> c0893220c36736cc02ee3a637f701f8b90ad34a2
